@@ -27,6 +27,11 @@ These two mock-up network simulations illustrate expected structural patterns am
 
 ---
 
+##📌 Citation
+Please cite this repository as:
+
+Carlos Yang (2025). Mapping Ideological Communities on Weibo During Public Controversies. MACS 30200, University of Chicago. GitHub Classroom Repository.
+
 ## ⚙️ Requirements
 
 ### ✅ Python Version  
@@ -37,5 +42,3 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-
-
