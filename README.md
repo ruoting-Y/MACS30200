@@ -19,11 +19,11 @@ These two mock-up network simulations illustrate expected structural patterns am
 
 **Mock-Up 1: Progressive Clustered Cohesion**
 
-![Mock-Up 1](figures/figure1_mockup.png)
+![Mock-Up 1](mcup.png)
 
 **Mock-Up 2: Conservative Centralization**
 
-![Mock-Up 2](figures/figure2_mockup.png)
+![Mock-Up 2](mcup2.png)
 
 ---
 
